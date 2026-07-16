@@ -1,0 +1,22 @@
+[
+    {
+        "email":"Admin1@gmail.com",
+        "password":"password",
+        "validity":"invalid"
+    },
+    {
+        "email":"Admin2@gmail.com",
+        "password":"password",
+        "validity":"invalid"
+    },
+    {
+        "email":"Admin3@gmail.com",
+        "password":"password",
+        "validity":"invalid"
+    },
+    {
+        "email":"Admin4@gmail.com",
+        "password":"password",
+        "validity":"invalid"
+    }
+]
